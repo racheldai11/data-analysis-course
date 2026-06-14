@@ -324,7 +324,7 @@ Cuando un casting falla — porque el string tiene texto que no es un número �
 
 ## Práctica
 
-→ [Ver ejercicios](./practica/ejercicios.md)
+→ [Ver ejercicios](https://github.com/rosinni/data-analysis-course/blob/main/modulo-1-python/clase-01/practica/notebook.ipynb)
 
 ---
 
